@@ -2,9 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Owen Tyme</title><link>https://owentyme.us/blog/index.html</link>
 <description>Science Fiction and Fantasy Author</description><language>en</language>
-<lastBuildDate>Thu, 16 Nov 2023 19:38:41 -0600</lastBuildDate>
-<pubDate>Thu, 16 Nov 2023 19:38:41 -0600</pubDate>
+<lastBuildDate>Fri, 17 Nov 2023 22:14:47 -0600</lastBuildDate>
+<pubDate>Fri, 17 Nov 2023 22:14:47 -0600</pubDate>
 <atom:link href="https://owentyme.us/blog/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Shame On Me, I Guess, Part II
+</title><description><![CDATA[
+
+<p>After a day away from the social-media-platform-that-shall-remain-nameless, I logged in to check the status of my appeal.  Lo and behold, my account has magically been reactivated, just as I predicted!</p>
+
+<p>Why does sharing a photo of myself somehow convince them I didn't actually break any rules, even though their algorithm repeatedly flags me for such?  What the heck is even going on, man?  Why don't they bother to actually explain what's going on?</p>
+
+<p>Honestly, if this is the way they behave, then clearly, the social-media-platform-that-shall-remain-nameless is nearly as much of a dumpster fire as the social-media-platform-formerly-known-as-twitter.  Their algorithm is also clearly on hard drugs.</p>
+
+<p>As an experiment to satisfy my morbid curiosity, I removed the photo of myself from the page on the social-media-platform-that-shall-remain-nameless and replaced it with my publishing mark, just to see how deep this rabbit hole goes.</p>
+
+<p>I half-suspect that my account will be blocked again within a week and a half.  If not, then I'll put the photo back up and see what happens, then.  It may be that putting the face of a human being on a secondary page is what the algorithm doesn't like.</p>
+
+<p>Perhaps an author isn't allowed to be a human being.</p>
+
+<p>After all, the owner of the company has a face only an AI could have generated.  Honestly, I've never seen another human being whose face was so clearly stuck in the middle of the Uncanny Valley and yet, people claim to have met him, in person.  Perhaps they're AI generated, too.</p>
+
+<p>Anyway, I'll keep you all posted as this story of madness swirling around the social media's toilet drain continues.  Hopefully, my experiments will at least help others that wish to promote their writing online.</p>
+
+<p>Oh yeah, and by the way, you can find <a href="https://mastodon.social/@OwenTyme">the social media profile I actually care about on Mastodon</a>.  I quite like Mastodon, because it's not governed by a brainless algorithm and all the posts in the feeds are in (gasp!) <em>chronological order</em>!  What a concept, eh?  It's based on open source software, so just about anyone can setup a server if they've the time, inclination and resources.  Best of all, those servers all talk to each other and share posts back and forth.  Isn't that cool?</p>
+
+<p>I was also quite delighted when I looked at the rules for Mastodon.social (the largest Mastodon server), which are actually human-readable, rather than lawyer-readable.</p>
+
+<p>Tags: <a href='tag_social-media.html'>social-media</a>, <a href='tag_social-media-platform-that-shall-remain-nameless.html'>social-media-platform-that-shall-remain-nameless</a></p>
+
+<!-- text end -->
+]]></description><link>https://owentyme.us/blog/shame-on-me-i-guess-part-ii.html</link>
+<guid>https://owentyme.us/blog/./shame-on-me-i-guess-part-ii.html</guid>
+<dc:creator>Owen Tyme</dc:creator>
+<pubDate>Fri, 17 Nov 2023 22:14:45 -0600</pubDate></item>
 <item><title>
 Shame On Me, I Guess
 </title><description><![CDATA[
@@ -27,6 +58,7 @@ Shame On Me, I Guess
 
 <p>Tags: <a href='tag_social-media.html'>social-media</a>, <a href='tag_social-media-platform-that-shall-remain-nameless.html'>social-media-platform-that-shall-remain-nameless</a></p>
 
+
 <!-- text end -->
 ]]></description><link>https://owentyme.us/blog/shame-on-me-i-guess.html</link>
 <guid>https://owentyme.us/blog/./shame-on-me-i-guess.html</guid>
@@ -41,6 +73,7 @@ Apparently, I'm News
 <p>I know I was a nervous wreck, but she did a good job of turning my ramblings into a coherent news article.  Never once did I consider the possibility that I might be interviewed by a reporter, but hopefully, this will get the word out to locals, at least.  I know I can definitely use the extra sales and it stands to reason, those that read newspapers are more likely to read books.</p>
 
 <p>Tags: <a href='tag_writing.html'>writing</a>, <a href='tag_publishing.html'>publishing</a>, <a href='tag_news.html'>news</a>, <a href='tag_interviews.html'>interviews</a></p>
+
 
 
 
@@ -77,6 +110,7 @@ Available for Pre-Order: Forgotten Legends!
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://owentyme.us/blog/forgotten-legends-available-for-pre-order.html</link>
 <guid>https://owentyme.us/blog/./forgotten-legends-available-for-pre-order.html</guid>
@@ -108,6 +142,7 @@ Coming Soon: Forgotten Legends
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://owentyme.us/blog/coming-soon-forgotten-legends.html</link>
 <guid>https://owentyme.us/blog/./coming-soon-forgotten-legends.html</guid>
@@ -126,6 +161,7 @@ Troll Song Author Copies!
 <p><img src="../images/Books-TrollSong.png" alt="" title="" /></p>
 
 <p>Tags: <a href='tag_writing.html'>writing</a>, <a href='tag_published.html'>published</a></p>
+
 
 
 
@@ -240,6 +276,7 @@ Building a Blog
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://owentyme.us/blog/building-a-blog.html</link>
 <guid>https://owentyme.us/blog/./building-a-blog.html</guid>
@@ -289,6 +326,7 @@ Troll Song is Released!
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://owentyme.us/blog/troll-song-is-released.html</link>
 <guid>https://owentyme.us/blog/./troll-song-is-released.html</guid>
@@ -309,6 +347,7 @@ Introductions
 <p>Though I currently call Liberal, Kansas home, I was born in the California Bay Area. I've come to enjoy the mild climate of Kansas.  I'm a member of the Church of Jesus Christ of Latter-Day Saints.</p>
 
 <p>Tags: <a href='tag_about.html'>about</a></p>
+
 
 
 
