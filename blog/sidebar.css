@@ -22,7 +22,8 @@ body {
 
 [class*="col-"] {
   float: left;
-  padding: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
 }
 
 
