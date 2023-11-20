@@ -1,14 +1,14 @@
 :root {
   border-top: 0px;
 }
-#title{font-size: x-large;}
+#title{font-size: x-large;margin-bottom:24px !important;}
         a.ablack{color:var(--moredark) !important;}
         li{margin-bottom:8px;}
         ul,ol{margin-left:24px;margin-right:24px;}
         #all_posts{margin-top:24px;text-align:center;}
         .subtitle{font-size:small;margin:12px 0px;}
         .content p{margin-left:24px;margin-right:24px;}
-        h1{margin-bottom:24px !important;}
+        /*h1{margin-bottom:24px !important;}*/
         #description{font-size:large;margin-bottom:12px;}
         h3{margin-top:42px;margin-bottom:8px;}
         h4{margin-left:24px;margin-right:24px;}
