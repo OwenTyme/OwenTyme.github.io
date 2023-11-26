@@ -132,4 +132,5 @@ body {
     border-top: 2px solid var(--lesslight);
     border-left: 2px solid var(--lesslight);
     border-right: 2px solid var(--lesslight);
+    border-right: 1px solid var(--lesslight);
 }
