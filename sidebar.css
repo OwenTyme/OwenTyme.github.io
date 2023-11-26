@@ -115,3 +115,12 @@ blockquote iframe{margin:12px 0px;}
     padding: 0px;
     margin: 0px;
 }
+
+
+/* Sidebar buttons */
+.sidenav button {
+    display: inline-block;
+    width: 100%;
+    max-width: 250px;
+}
+

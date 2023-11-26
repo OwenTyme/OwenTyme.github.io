@@ -96,3 +96,22 @@ body {
   color: var(--moredark);
 }
 
+/* For the Books pages to get the cover images aligned correctly, floating on the left side. */
+.book-cover {
+    float:left;
+    padding-right: 12px;
+    padding-bottom: 0px; 
+}
+.book-cover img {
+    padding: 0px;
+    margin: 0px;
+}
+
+/* Sidebar buttons */
+.sidenav button {
+    display: inline-block;
+    width: 100%;
+    max-width: 250px;
+}
+
+
