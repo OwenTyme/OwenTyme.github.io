@@ -116,6 +116,16 @@ blockquote iframe{margin:12px 0px;}
     margin: 0px;
 }
 
+.book-cover-right {
+    float:right;
+    padding-left: 12px;
+    padding-bottom: 0px; 
+}
+.book-cover-right img {
+    padding: 0px;
+    margin: 0px;
+}
+
 
 /* Sidebar buttons */
 .sidenav button {
