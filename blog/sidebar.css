@@ -107,6 +107,16 @@ body {
     margin: 0px;
 }
 
+.book-cover-right {
+    float:right;
+    padding-left: 12px;
+    padding-bottom: 0px; 
+}
+.book-cover-right img {
+    padding: 0px;
+    margin: 0px;
+}
+
 /* Sidebar buttons */
 .sidenav button {
     display: inline-block;
@@ -114,4 +124,10 @@ body {
     max-width: 250px;
 }
 
-
+/* Disqus needs its colors explicitly specified, because it's getting them backwards on its own.  The auto-detection seems to be screwed up. */
+.disqus_thread {
+    background-color: var(--light);
+    color: var(--dark);
+    padding: 12px;
+    border-top: 2px solid var(--lesslight);
+}
