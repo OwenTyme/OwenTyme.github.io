@@ -126,8 +126,8 @@ body {
 
 /* Disqus needs its colors explicitly specified, because it's getting them backwards on its own.  The auto-detection seems to be screwed up. */
 #disqus_thread {
-    background-color: var(--light);
-    color: var(--dark);
+    background-color: white;
+    color: black;
     padding: 12px;
-    border-top: 2px solid var(--lesslight);
+    border: 2px solid var(--lesslight);
 }
