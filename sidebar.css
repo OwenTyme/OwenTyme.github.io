@@ -4,6 +4,8 @@
 
 body {
   max-width: 1000px;
+  margin-top: 12px;
+  margin-bottom: 12px;
   margin-left: auto;
   margin-right: auto;
   padding: 0;
@@ -68,21 +70,9 @@ body {
 }
 
 .sidenav {
-  /*display: flex;
-  flex-flow: column;
-  height: 100%;
-  width: 174px;
-  position: fixed;
-  z-index: 1;
-  top: 0px;
-  left: auto;*/
   background: var(--lesslight);
-  /*
-  overflow-x: hidden;
-  padding: 0px 8px;
-  margin-left: auto;
-  margin-right: auto;
-  */
+  border-radius: .333em;
+  box-shadow: 2px 5px 5px 0px rgba(0,0,0,0.5);
 }
 
 
@@ -96,13 +86,29 @@ body {
   color: var(--moredark);
 }
 
-#footer{padding-top:10px;border-top:solid 1px var(--lesslight);color:var(--dark);text-align:center;font-size:small;/*font-family:"Courier New","Courier",monospace;*/}
+#footer{
+    padding-top: 10px;
+    border-top: solid 1px var(--lesslight);
+    color: var(--dark);
+    text-align: center;
+    font-size:small;
+}
 
 
 /* To make the website look more like the blog. */
-blockquote{background-color:var(--lesslight);;margin-left:12px;padding:12px 12px 12px 24px;}
-blockquote img{margin:12px 0px;}
-blockquote iframe{margin:12px 0px;}
+blockquote{
+    background-color:var(--lesslight);
+    margin-left:12px;
+    padding:12px 12px 12px 24px;
+    border-radius: .333em;
+    box-shadow: 2px 5px 5px 0px rgba(0,0,0,0.5);
+}
+blockquote img{
+    margin:12px 0px;
+}
+blockquote iframe{
+    margin:12px 0px;
+}
 
 
 /* For the Books pages to get the cover images aligned correctly, floating on the left side. */
@@ -132,6 +138,7 @@ blockquote iframe{margin:12px 0px;}
     display: inline-block;
     width: 100%;
     max-width: 250px;
+    box-shadow: 2px 5px 5px 0px rgba(0,0,0,0.5);
 }
 
 /*
