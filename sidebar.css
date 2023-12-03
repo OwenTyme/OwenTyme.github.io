@@ -1,30 +1,6 @@
 :root {
     border-top: 0px; /* Gets rid of top page border from neat.css */
 
-    --alerthue: 240;
-    --alertsat: 50%;
-    --alert100: hsl(var(--alerthue), var(--alertsat), 100%);
-    --alert95:  hsl(var(--alerthue), var(--alertsat), 95%);
-    --alert90:  hsl(var(--alerthue), var(--alertsat), 90%);
-    --alert85:  hsl(var(--alerthue), var(--alertsat), 85%);
-    --alert80:  hsl(var(--alerthue), var(--alertsat), 80%);
-    --alert75:  hsl(var(--alerthue), var(--alertsat), 75%);
-    --alert70:  hsl(var(--alerthue), var(--alertsat), 70%);
-    --alert65:  hsl(var(--alerthue), var(--alertsat), 65%);
-    --alert60:  hsl(var(--alerthue), var(--alertsat), 60%);
-    --alert55:  hsl(var(--alerthue), var(--alertsat), 55%);
-    --alert50:  hsl(var(--alerthue), var(--alertsat), 50%);
-    --alert45:  hsl(var(--alerthue), var(--alertsat), 45%);
-    --alert40:  hsl(var(--alerthue), var(--alertsat), 40%);
-    --alert35:  hsl(var(--alerthue), var(--alertsat), 35%);
-    --alert30:  hsl(var(--alerthue), var(--alertsat), 30%);
-    --alert25:  hsl(var(--alerthue), var(--alertsat), 25%);
-    --alert20:  hsl(var(--alerthue), var(--alertsat), 20%);
-    --alert15:  hsl(var(--alerthue), var(--alertsat), 15%);
-    --alert10:  hsl(var(--alerthue), var(--alertsat), 10%);
-    --alert5:   hsl(var(--alerthue), var(--alertsat), 5%);
-    --alert0:   hsl(var(--alerthue), var(--alertsat), 0%);
-
     /* Light mode colors for carbon background */
     --colorlg15: #eaeaea;
     --colorlg22: #dddddd;
@@ -37,28 +13,6 @@
 
 @media (prefers-color-scheme: dark) {
     :root {
-        --alert100: hsl(var(--alerthue), var(--alertsat), 0%);
-        --alert95:  hsl(var(--alerthue), var(--alertsat), 5%);
-        --alert90:  hsl(var(--alerthue), var(--alertsat), 10%);
-        --alert85:  hsl(var(--alerthue), var(--alertsat), 15%);
-        --alert80:  hsl(var(--alerthue), var(--alertsat), 20%);
-        --alert75:  hsl(var(--alerthue), var(--alertsat), 25%);
-        --alert70:  hsl(var(--alerthue), var(--alertsat), 30%);
-        --alert65:  hsl(var(--alerthue), var(--alertsat), 35%);
-        --alert60:  hsl(var(--alerthue), var(--alertsat), 40%);
-        --alert55:  hsl(var(--alerthue), var(--alertsat), 45%);
-        --alert50:  hsl(var(--alerthue), var(--alertsat), 50%);
-        --alert45:  hsl(var(--alerthue), var(--alertsat), 55%);
-        --alert40:  hsl(var(--alerthue), var(--alertsat), 60%);
-        --alert35:  hsl(var(--alerthue), var(--alertsat), 65%);
-        --alert30:  hsl(var(--alerthue), var(--alertsat), 70%);
-        --alert25:  hsl(var(--alerthue), var(--alertsat), 75%);
-        --alert20:  hsl(var(--alerthue), var(--alertsat), 80%);
-        --alert15:  hsl(var(--alerthue), var(--alertsat), 85%);
-        --alert10:  hsl(var(--alerthue), var(--alertsat), 90%);
-        --alert5:   hsl(var(--alerthue), var(--alertsat), 95%);
-        --alert0:   hsl(var(--alerthue), var(--alertsat), 100%);
-
         /* Dark mode colors for carbon background */
         --colorlg15: #151515;
         --colorlg22: #222222;
@@ -81,7 +35,7 @@ body {
   height: 100%;
 
   /* Carbon pattern from https://projects.verou.me/css3patterns/
-     Modified to work in both dark and light modes */
+     Modified to work in both dark and light mode */
   background:
     linear-gradient(27deg, var(--colorlg15) 5px, transparent 5px) 0 5px,
     linear-gradient(207deg, var(--colorlg15) 5px, transparent 5px) 10px 0px,
@@ -230,6 +184,12 @@ blockquote iframe{
 .book-cover-right img {
     padding: 0px;
     margin: 0px;
+}
+
+/* Sepcial button classes */
+.buy{
+    background-color: hsl(210, 75%, 50%);
+    color: white;
 }
 
 
