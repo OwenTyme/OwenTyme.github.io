@@ -1,19 +1,107 @@
 :root {
-  border-top: 0px;
+    border-top: 0px; /* Gets rid of top page border from neat.css */
+
+    --alerthue: 240;
+    --alertsat: 50%;
+    --alert100: hsl(var(--alerthue), var(--alertsat), 100%);
+    --alert95:  hsl(var(--alerthue), var(--alertsat), 95%);
+    --alert90:  hsl(var(--alerthue), var(--alertsat), 90%);
+    --alert85:  hsl(var(--alerthue), var(--alertsat), 85%);
+    --alert80:  hsl(var(--alerthue), var(--alertsat), 80%);
+    --alert75:  hsl(var(--alerthue), var(--alertsat), 75%);
+    --alert70:  hsl(var(--alerthue), var(--alertsat), 70%);
+    --alert65:  hsl(var(--alerthue), var(--alertsat), 65%);
+    --alert60:  hsl(var(--alerthue), var(--alertsat), 60%);
+    --alert55:  hsl(var(--alerthue), var(--alertsat), 55%);
+    --alert50:  hsl(var(--alerthue), var(--alertsat), 50%);
+    --alert45:  hsl(var(--alerthue), var(--alertsat), 45%);
+    --alert40:  hsl(var(--alerthue), var(--alertsat), 40%);
+    --alert35:  hsl(var(--alerthue), var(--alertsat), 35%);
+    --alert30:  hsl(var(--alerthue), var(--alertsat), 30%);
+    --alert25:  hsl(var(--alerthue), var(--alertsat), 25%);
+    --alert20:  hsl(var(--alerthue), var(--alertsat), 20%);
+    --alert15:  hsl(var(--alerthue), var(--alertsat), 15%);
+    --alert10:  hsl(var(--alerthue), var(--alertsat), 10%);
+    --alert5:   hsl(var(--alerthue), var(--alertsat), 5%);
+    --alert0:   hsl(var(--alerthue), var(--alertsat), 0%);
+
+    /* Light mode colors for carbon background */
+    --colorlg15: #eaeaea;
+    --colorlg22: #dddddd;
+    --colorlg1b: #e4e4e4;
+    --colorlg1d: #e2e2e2;
+    --colorlg1a: #e5e5e5;
+    --colorlg24: #dbdbdb;
+    --colorlg13: #ececec;
 }
 
+@media (prefers-color-scheme: dark) {
+    :root {
+        --alert100: hsl(var(--alerthue), var(--alertsat), 0%);
+        --alert95:  hsl(var(--alerthue), var(--alertsat), 5%);
+        --alert90:  hsl(var(--alerthue), var(--alertsat), 10%);
+        --alert85:  hsl(var(--alerthue), var(--alertsat), 15%);
+        --alert80:  hsl(var(--alerthue), var(--alertsat), 20%);
+        --alert75:  hsl(var(--alerthue), var(--alertsat), 25%);
+        --alert70:  hsl(var(--alerthue), var(--alertsat), 30%);
+        --alert65:  hsl(var(--alerthue), var(--alertsat), 35%);
+        --alert60:  hsl(var(--alerthue), var(--alertsat), 40%);
+        --alert55:  hsl(var(--alerthue), var(--alertsat), 45%);
+        --alert50:  hsl(var(--alerthue), var(--alertsat), 50%);
+        --alert45:  hsl(var(--alerthue), var(--alertsat), 55%);
+        --alert40:  hsl(var(--alerthue), var(--alertsat), 60%);
+        --alert35:  hsl(var(--alerthue), var(--alertsat), 65%);
+        --alert30:  hsl(var(--alerthue), var(--alertsat), 70%);
+        --alert25:  hsl(var(--alerthue), var(--alertsat), 75%);
+        --alert20:  hsl(var(--alerthue), var(--alertsat), 80%);
+        --alert15:  hsl(var(--alerthue), var(--alertsat), 85%);
+        --alert10:  hsl(var(--alerthue), var(--alertsat), 90%);
+        --alert5:   hsl(var(--alerthue), var(--alertsat), 95%);
+        --alert0:   hsl(var(--alerthue), var(--alertsat), 100%);
+
+        /* Dark mode colors for carbon background */
+        --colorlg15: #151515;
+        --colorlg22: #222222;
+        --colorlg1b: #1b1b1b;
+        --colorlg1d: #1d1d1d;
+        --colorlg1a: #1a1a1a;
+        --colorlg24: #242424;
+        --colorlg13: #131313;
+    }
+}
+
+
 body {
-  max-width: 1000px;
+  max-width: 1024px;
   margin-top: 12px;
   margin-bottom: 12px;
   margin-left: auto;
   margin-right: auto;
   padding: 0;
   height: 100%;
+
+  /* Carbon pattern from https://projects.verou.me/css3patterns/
+     Modified to work in both dark and light modes */
+  background:
+    linear-gradient(27deg, var(--colorlg15) 5px, transparent 5px) 0 5px,
+    linear-gradient(207deg, var(--colorlg15) 5px, transparent 5px) 10px 0px,
+    linear-gradient(27deg, var(--colorlg22) 5px, transparent 5px) 0px 10px,
+    linear-gradient(207deg, var(--colorlg22) 5px, transparent 5px) 10px 5px,
+    linear-gradient(90deg, var(--colorlg1b) 10px, transparent 10px),
+    linear-gradient(var(--colorlg1d) 25%, var(--colorlg1a) 25%, var(--colorlg1a) 50%, transparent 50%, transparent 75%, var(--colorlg24) 75%, var(--colorlg24));
+  background-color: var(--colorlg13);
+  background-size: 20px 20px;
 }
 
 * {
   box-sizing: border-box;
+}
+
+.row{
+    background-color: var(--light);
+    padding: 12px;
+    border-radius: .333em;
+    box-shadow: 2px 5px 5px 0px rgba(0,0,0,0.5);
 }
 
 .row::after {
@@ -73,6 +161,7 @@ body {
   background: var(--lesslight);
   border-radius: .333em;
   box-shadow: 2px 5px 5px 0px rgba(0,0,0,0.5);
+  height: 100%;
 }
 
 
@@ -93,6 +182,17 @@ body {
     text-align: center;
     font-size:small;
 }
+
+img {
+    border-radius: .333em;
+    box-shadow: 2px 5px 5px 0px rgba(0,0,0,0.5);
+}
+
+button{
+    border-radius: .333em;
+    box-shadow: 2px 5px 5px 0px rgba(0,0,0,0.5);
+}
+
 
 
 /* To make the website look more like the blog. */
@@ -148,5 +248,4 @@ blockquote iframe{
     float: left;
 }
 */
-
 
