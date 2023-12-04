@@ -181,15 +181,37 @@ blockquote iframe{
     padding-left: 12px;
     padding-bottom: 0px; 
 }
+
 .book-cover-right img {
     padding: 0px;
     margin: 0px;
 }
 
-/* Sepcial button classes */
+
+/* Special button classes */
 .buy{
     background-color: hsl(210, 75%, 50%);
     color: white;
+}
+
+
+/* Class for boxes to highlight text.
+   Intended to be used for sales announcements. */
+.banner{
+  padding: 0 0.5em;
+  line-height: 1.875em;
+  background-color: var(--dark);
+  color: var(--light);
+  border-radius: 0.333em;
+  box-shadow: 2px 5px 5px 0px rgba(0,0,0,0.5);
+}
+
+.banner a{
+  color: var(--light);
+}
+
+.banner a:hover {
+  color: var(--lesslight);
 }
 
 
@@ -209,12 +231,6 @@ blockquote iframe{
 }
 */
 
-
-#divbody{
-    /*border-top:solid 1px var(--light);
-    border-radius: .333em;
-    box-shadow: 2px 5px 5px 0px rgba(0,0,0,0.5);*/
-}
 
 /* Disqus needs its colors explicitly specified, because it's getting them backwards on its own.  The auto-detection seems to be screwed up. */
 #disqus_thread {
