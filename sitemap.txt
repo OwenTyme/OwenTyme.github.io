@@ -1,4 +1,6 @@
+https://owentyme.us/
 https://owentyme.us/about.html
+https://owentyme.us/blog/
 https://owentyme.us/blog/50-off-on-smashwords.html
 https://owentyme.us/blog/all_posts.html
 https://owentyme.us/blog/all_tags.html
@@ -15,7 +17,7 @@ https://owentyme.us/blog/coming-soon-forgotten-legends.html
 https://owentyme.us/blog/emergent-consequences.html
 https://owentyme.us/blog/forgotten-legends-available-for-pre-order.html
 https://owentyme.us/blog/fresh-release-she-hunts-demons.html
-https://owentyme.us/blog/
+https://owentyme.us/blog/index.html
 https://owentyme.us/blog/introductions.html
 https://owentyme.us/blog/new-stores-for-my-books.html
 https://owentyme.us/blog/on-sale-now.html
@@ -48,6 +50,6 @@ https://owentyme.us/blog/troll-song-author-copies.html
 https://owentyme.us/blog/troll-song-is-released.html
 https://owentyme.us/books.html
 https://owentyme.us/contact.html
-https://owentyme.us/
+https://owentyme.us/index.html
 https://owentyme.us/links.html
 https://owentyme.us/short_stories.html
