@@ -46,6 +46,7 @@ https://owentyme.us/blog/tag_the-wizards-scion.html
 https://owentyme.us/blog/tag_websites.html
 https://owentyme.us/blog/tag_writing.html
 https://owentyme.us/blog/the-smashwords-sale-has-begun.html
+https://owentyme.us/blog/the-third-wish-in-ebook-and-print.html
 https://owentyme.us/blog/troll-song-author-copies.html
 https://owentyme.us/blog/troll-song-is-released.html
 https://owentyme.us/books.html
@@ -53,3 +54,4 @@ https://owentyme.us/contact.html
 https://owentyme.us/index.html
 https://owentyme.us/links.html
 https://owentyme.us/short_stories.html
+https://owentyme.us/test.html
