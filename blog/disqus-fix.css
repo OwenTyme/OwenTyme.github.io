@@ -1,0 +1,12 @@
+/* Disqus needs its colors explicitly specified, because it's getting them backwards on its own.  The auto-detection seems to be screwed up. */
+#disqus_thread {
+    background-color: white;
+    color: black;
+    padding: 12px;
+    border-top: 2px solid var(--lesslight);
+    border-left: 2px solid var(--lesslight);
+    border-right: 2px solid var(--lesslight);
+    border-right: 1px solid var(--lesslight);
+    border-radius: .333em;
+    box-shadow: 2px 5px 5px 0px rgba(0,0,0,0.5);
+}

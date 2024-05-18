@@ -230,3 +230,9 @@ blockquote iframe{
     float: left;
 }
 */
+
+/* Paragraph indent for prose */
+.prose p {
+  text-indent: 50px;
+  margin: 0;
+}
