@@ -236,3 +236,17 @@ blockquote iframe{
   text-indent: 50px;
   margin: 0;
 }
+
+/* Heading centering for prose */
+.prose h1,
+.prose h2,
+.prose h3,
+.prose h4,
+.prose h5,
+.prose h6 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
