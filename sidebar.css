@@ -111,6 +111,16 @@ body {
   .col-12 {width: 100%;}
 }
 
+img {
+    border-radius: .333em;
+    box-shadow: 2px 5px 5px 0px rgba(0,0,0,0.5);
+}
+
+button{
+    border-radius: .333em;
+    box-shadow: 2px 5px 5px 0px rgba(0,0,0,0.5);
+}
+
 .sidenav {
   background: var(--lesslight);
   border-radius: .333em;
@@ -129,6 +139,11 @@ body {
   color: var(--moredark);
 }
 
+.sidenav img {
+    border-radius: 0;
+    box-shadow: none;
+}
+
 #footer{
     padding-top: 10px;
     border-top: solid 1px var(--lesslight);
@@ -136,17 +151,6 @@ body {
     text-align: center;
     font-size:small;
 }
-
-img {
-    border-radius: .333em;
-    box-shadow: 2px 5px 5px 0px rgba(0,0,0,0.5);
-}
-
-button{
-    border-radius: .333em;
-    box-shadow: 2px 5px 5px 0px rgba(0,0,0,0.5);
-}
-
 
 
 /* To make the website look more like the blog. */
@@ -223,13 +227,6 @@ blockquote iframe{
     box-shadow: 2px 5px 5px 0px rgba(0,0,0,0.5);
 }
 
-/*
-.sidenav button svg {
-    width: 32px;
-    height: 32px;
-    float: left;
-}
-*/
 
 /* Paragraph indent for prose */
 .prose p {
@@ -249,4 +246,6 @@ blockquote iframe{
   margin-right: auto;
   text-align: center;
 }
+
+
 
