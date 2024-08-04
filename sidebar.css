@@ -247,5 +247,12 @@ blockquote iframe{
   text-align: center;
 }
 
+table {
+  width:100%;
+}
 
+table, th, td {
+  border:1px solid;
+  text-align: center;
+}
 
