@@ -232,6 +232,7 @@ blockquote iframe{
 .prose p {
   text-indent: 50px;
   margin: 0;
+  margin-bottom: 0.1in
 }
 
 /* Heading centering for prose */
@@ -256,4 +257,5 @@ table, th, td {
   border:1px solid;
   text-align: center;
 }
+
 
