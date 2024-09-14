@@ -2,9 +2,204 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Tymely News</title><link>https://owentyme.us/blog/index.html</link>
 <description>Straight from Owen Tyme's keyboard</description><language>en</language>
-<lastBuildDate>Wed, 11 Sep 2024 06:05:57 -0500</lastBuildDate>
-<pubDate>Wed, 11 Sep 2024 06:05:57 -0500</pubDate>
+<lastBuildDate>Sat, 14 Sep 2024 07:52:34 -0500</lastBuildDate>
+<pubDate>Sat, 14 Sep 2024 07:52:34 -0500</pubDate>
 <atom:link href="https://owentyme.us/blog/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Work In Progress #9: She Seeks Peace #1 (September 12-13)
+</title><description><![CDATA[
+
+<p>The next novel I'll be keeping a log on is <a href="../books.html#she-seeks-peace">She Seeks Peace</a>, volume 4 of <a href="../books/ashen-blades/index.html">Ashen Blades</a>.</p>
+
+<h2>Why the Long Delay?</h2>
+
+<p>It was a long month, working on editing Troll War and getting it ready for the process of querying literary agents.</p>
+
+<p>Editing took longer than I would have liked.  Some kind person on Mastodon suggested I use software to read the book to me, because it will read exactly what it finds.  That was a third pass of editing I hadn't planned for, but dang, the results were worth it.</p>
+
+<p>I was a little embarrassed to hear my typos read aloud, but I'm going to do all of my final editing this way from now on, because it catches stuff I never will on my own.</p>
+
+<p>Then I got bogged down writing a basic query letter to modify for each agent, including back cover text and a synopsis of the novel.</p>
+
+<h2>Changes to My Process</h2>
+
+<p>Now that my computer is all setup for reading to me in a fairly pleasant fashion, I'll be listening to the previous day's material at the start of each work session.  I tried it out with the prologue and chapter 1 this week and found some nasty typos I couldn't see on my own, so this is definitely something essential for the future.</p>
+
+<p>For the curious, here's the combination of software I'm using:</p>
+
+<ul>
+<li><a href="https://linuxmint.com/">Linux Mint</a> - The Linux distribution I use for my operating system</li>
+<li><a href="https://www.libreoffice.org/">LibreOffice</a> - Word processor</li>
+<li><a href="https://sites.google.com/site/readtextextension">ReadText</a> - Extension for LibreOffice</li>
+<li><a href="https://freebsoft.org/speechd">Speech Dispatcher</a> - Default text to speech system on Linux Mint</li>
+<li><a href="https://github.com/rhasspy/piper">Piper</a> - AI voiced text-to-speech </li>
+<li><a href="https://github.com/Elleo/pied">Pied</a> - Software to connect Piper to Speech Dispatcher</li>
+<li><a href="https://www.gnu.org/software/bash/">Bash</a> - I wrote some shell scripts to customize my experience with ReadText, to ensure pauses between sentences</li>
+</ul>
+
+<p>I've really grown to love Piper, which is a real-time text-to-speech system that uses an AI voice to speak in a rather clear and understandable fashion, which was trained on ethically-sourced voice samples.  I've been using the libritts model, which I find to be pleasant to listen to.</p>
+
+<p>Piper only produces 22 KHz audio (half CD quality), so not the best, but it is fast, more or less perfect for reading during the editing process.</p>
+
+<h2>Prologue</h2>
+
+<p>I actually wrote the prologue during my work on <a href="../books/ashen-blades/demon-for-president.html">Demon for President!</a>, because writing it was the only way I could get the scene out of my head.  Sometimes, I just have to write things out of order, to appease the inspiration.</p>
+
+<p>The novel begins with the Hunter on the dark surface of the moon, picking up where the previous book left off.</p>
+
+<p>She sits on the abandoned lunar rover from Apollo 17, considering the loss of her best friend, Simmons, who died at the end of the previous book.</p>
+
+<p>Simmons was the biggest thing that made her want to save the world, but with him gone, she worries she'll lose her humanity.</p>
+
+<p>Her mind is inevitably drawn to thoughts of Reggie Stewart, the detective she worked with before Simmons, because she holds herself responsible for his death, just the same as Simmons.  She's wrong on both counts, of course, but she's has a guilt complex similar to Spider-Man, the reasons for which I'll make apparent through flashbacks on her personal history.</p>
+
+<p>She looks back with longing and sadness, remembering how she met Reggie.</p>
+
+<h2>Chapter 1: Reggie</h2>
+
+<p>Chapter 1 takes place on May 5, 1922.  I looked through historical records and found a sufficiently rainy day for my purposes.  The <a href="https://www.extremeweatherwatch.com/cities/new-york/year-1922">Extreme Weather Watch</a> website has been very helpful for looking up historical weather for <a href="../books/ashen-blades/index.html">Ashen Blades</a>.</p>
+
+<p>Reggie runs through the rain, pistols drawn (twin M1911s), considering how he got into the mess he's in, while his body aches, because he isn't as young as he used to be (48) and his old injuries act up in humid conditions.</p>
+
+<p>He bumped into a demon in the rain, while looking to get a hot meal.</p>
+
+<p>The demon grabbed him by the throat and lifted him into the air, explaining:</p>
+
+<blockquote>
+  <p>"The boss ain’t happy with you, mister.  The boss is tired of you killing his guys."</p>
+</blockquote>
+
+<p>As it turns out, Reggie has been killing demon mobsters that work for a particular demon, who's human name is Michele Popwell, while her criminal persona is 'Silver Dollar'.  She got the nickname for her tendency to mark her kills by putting a silver dollar in the mouth of the corpse, as a warning to others.</p>
+
+<p>The "his" in the demon's dialog is intentional.  All of Silver Dollar's minions refer to her as "he", to throw investigators off the mark.</p>
+
+<p>Silver Dollar is quite angry to have lost so many flunkies, who are now out for blood.</p>
+
+<p>Reggie shoots the brute in the testicles, then the heart.  The demon stumbles away and Reggie aims both pistols at their head as he makes an offer:</p>
+
+<blockquote>
+  <p>"We can do this the easy way, or the hard way.  Either you go tell Popwell I want a meeting, or I shoot you in the head a few times, then pin that nice suit of yours to her door, just like I’ve done with the last twenty of her men.  It’s your choice, of course.".</p>
+</blockquote>
+
+<p>Caught between a rock (Reggie) and a hard place (Silver Dollar will be angry at his failure), the demon opts to run, presumably in the hopes of healing and coming at Reggie again.</p>
+
+<p>Reggie reluctantly gives chase.</p>
+
+<p>Meanwhile, the Hunter sits on the edge of a rooftop, enjoying the rain, because while it's pouring, she can hardly smell demons.  She's taking the rare chance to relax.</p>
+
+<p>She appears ten years old, though she's really quite short for that age, at 3'11".</p>
+
+<p>Despite the rain, she smells a demon and looks down, seeing Reggie chasing the it, amused to see a little role-reversal between the sheep (her internal monologue term for humans) and prey (her internal term for demons).</p>
+
+<p>She leaps down and scares the demon into turning, because all demons in town know about her, scared crap-less by her existence and strength, because thye have no idea what she is.</p>
+
+<p>She repeats this several times, using shadow steps (she teleports from one shadow to another), giving Reggie a chance to catch up.</p>
+
+<p>Reggie turns one final corner and runs into the backside of the demon, who's finally stopped, leading to this scene:</p>
+
+<blockquote>
+  <p>Reggie charged round another corner and practically barreled right into the demon’s back, who blubbered, “Please, don’t kill me!”</p>
+
+<p>Reggie put one pistol to the brute’s back and the other to the back of his skull, before answering, “Just deliver my message and I’ll let you live.”</p>
+
+<p>“Okay, okay!  Whatever you want two want!” The demon raised his hands in surrender!</p>
+
+<p>“Two?” Reggie asked, surprised.</p>
+
+<p>He was further surprised to hear insane, girlish giggling from the other side of the monster, so he peered around the demon, without moving his weapons.</p>
+
+<p>There was a small girl there, with eyes so blue, they practically glowed!  She had an elderly butcher’s knife in hand and it finally dawned on Reggie that it wasn’t him the demon was most scared of.  The top hat she wore was far too large for her.</p>
+
+<p>The girl launched herself into the air with inhuman strength, slashing the demon’s neck as part of a twirl!  When she finished a complete revolution, she turned it into a forward thrust, ramming the knife into the demon’s eye so hard, the tip cracked through the back of its skull, before her body weight hauled it right back out!  Reggie was hit by a splatter of demon blood, which quickly washed away in the rain, then evaporated.</p>
+
+<p>Meanwhile, the girl lightly landed on her feet and took several steps backwards, allowing the demon to splash down into the water at her feet.  Reggie met the crazed girl’s gaze, unsure what to do, because she was clearly a demon, though she’d just killed one of her own.</p>
+</blockquote>
+
+<p>Reggie demands why she killed the other demon.</p>
+
+<p>Naturally, she responds, "It's a secret", the only phrase she can speak, due to the curse she lives with.</p>
+
+<p>Not accepting that, Reggie angrily asks more questions and she flips him the bird, but since he won't let it go, the Hunter produces Mashu'ra from her hat, the kitten demon that lives there.</p>
+
+<p>He explains that she's cursed and the two of them hate demons.</p>
+
+<p>Reggie doesn't believe him, but Mashu'ra also explains that the Hunter is a half-demon, not a pure demon.</p>
+
+<p>He complains about the rain and the Hunter puts him away as he gives a final warning:</p>
+
+<blockquote>
+  <p>"If you’ll take a bit of advice, you should stop pointin’ guns at her, because nothin’ good will come of it."</p>
+</blockquote>
+
+<p>Reggie reasons any spawn of evil is evil, even if they're partially human, and presses his luck by trying to shoot the Hunter, only for his pistol to repeatedly malfunction.</p>
+
+<p>Getting annoyed, the Hunter decides to take his pistols away and shadow steps high into the air, above him.</p>
+
+<p>She kicks him in the head, knocking him to the ground, while his pistols clatter away.  She goes for one, while he goes for the other and they both come up pointing a gun.</p>
+
+<p>There's a long, quiet moment in which neither fires and Reggie lowers his pistol.  She does the same.</p>
+
+<p>He was trying to trick her and raises it again, only to see her do the same.  He soon realizes she's only mimicking him, with no intention of firing, basically playing a game.</p>
+
+<p>He holsters his pistol in the hopes she'll drop hers, but she instead puts it in her hat, forcing Reggie to conclude:</p>
+
+<blockquote>
+  <p>"Clearly, I’m never getting that back."</p>
+</blockquote>
+
+<p>She nods agreement.</p>
+
+<p>He explains that she's gotten in the way of his plans for Silver Dollar and his need to send a message.  She shrugs and grins sheepishly, the closest she can get to an apology.</p>
+
+<p>Reggie decides (aloud) to go find another of Silver Dollar's minions and walks off, into the rain, having given up on getting a hot meal.</p>
+
+<p>Thinking the sheep (Reggie) is mad to tangle with demons, the Hunter decides to follow him, because she likes him and he's going to need help from the only shepherd available (herself).</p>
+
+<h2>Chapter 2: The Assignment</h2>
+
+<p>Reggie is followed around by the Hunter for weeks on end.  He initially tries to ditch her, but she shadow-steps to keep up, treating it like a game.</p>
+
+<p>After a few days, he calls his boss in the Order of Ash and Smoke, Master Lagrow, telling him everything.</p>
+
+<p>Lagrow acts as if he already knew about the girl and assigns Reggie to keep an eye on her.  Reggie doesn't like it, bothered by the unspoken facts.</p>
+
+<p>The Hunter initially won't go into buildings (she lives outside and gets claustrophobic at the idea of heavy concrete over her head) and Reggie pays street kids to watch her, discovering she never sleeps.</p>
+
+<p>After a while, he accepts her as his perpetual shadow and gets back to work.</p>
+
+<p>After a long day of killing demons to tick off Silver Dollar, in the hopes of arranging a face to face meeting, he heads back to his detective agency office to look at his notes on the case.</p>
+
+<p>When they arrive at the building, the Hunter smells demon and growls.</p>
+
+<p>She follows him inside and even rides an elevator with him, though she does have a panic attack, resulting in a half-crushed railing, because the sense of motion terrified her.</p>
+
+<p>Getting out, they walk the hall to his office, the stink of demon getting stronger, because there's at least ten of them inside.</p>
+
+<p>After a brief discussion that confirms the Hunter's opinion of Reggie (totally insane), he goes in alone, because he wants to try talking, before violence.</p>
+
+<h2>Future Plans</h2>
+
+<p>Next week will being with Chapter 3, 'The Dollar Owed'.  That little play on words amuses me.  Reggie will end up surrounded by demons and finally come face to face with Silver Dollar, who's so incensed, she's lost all rationality.</p>
+
+<p>There will be some discussion, which will end with Silver Dollar ordering Reggie's death, at which point the Hunter will enter the dark office by shadow step, wielding a baseball bat.</p>
+
+<p>Silver Dollar will take a full-strength hit to the back of her skull, which will destroy both Silver Dollar's head and the bat (this is the reason readers have never seen her wield one, before).  After that, Reggie and the Hunter will fight back to back in a scene that will demonstrate the fact they're two peas in a pod (they're both totally insane and love a fight).</p>
+
+<p>The chapter after that will take place twenty years later, though I might try the textual equivalent of a montage, so I can show a few happy memories along the way.</p>
+
+<p>This will show their final mission together, which ultimately resulted in Reggie's death.  While parts of that were shown in the prologue of <a href="../books/ashen-blades/she-hunts-demons.html">She Hunts Demons</a>, to help establish why the Hunter wouldn't let Simmons go into battle, I plan to show the entire scene, including an amusing bit where one of Vogerath's Hell Hounds bites him in the foot, leading him to stop using them as minions.  Readers of the previous three books will definitely remember Vogerath, the Hunter's arch-nemesis.</p>
+
+<p>Once that sad scene is done and Reggie is no more, we'll return to the Hunter on the moon, where she'll encounter a demon that's been living there since the Apollo 17 mission, surviving on the life energy that emanates from the Earth and pools on the surface during the lunar night (incidentally, the same way the Hunter can survive up there).  That fight will prompt the Hunter to leave the moon,  because it no longer feels like a peaceful place to her.</p>
+
+<p>That will become the theme of the novel: the hunter seeks a place for quiet contemplation, but always finds more demons, wandering from one place to another, until she ends up in the Australian Outback on a walkabout, which is where she'll run into the arch-demon, Wrath, for the climax.</p>
+
+<p>Tags: <a href='tag_writing.html'>writing</a>, <a href='tag_work-in-progress.html'>work-in-progress</a>, <a href='tag_ashen-blades.html'>ashen-blades</a></p>
+
+<!-- text end -->
+]]></description><link>https://owentyme.us/blog/work-in-progress-9-she-seeks-peace-1-september-12-13.html</link>
+<guid>https://owentyme.us/blog/./work-in-progress-9-she-seeks-peace-1-september-12-13.html</guid>
+<dc:creator>Owen Tyme</dc:creator>
+<pubDate>Sat, 14 Sep 2024 07:47:11 -0500</pubDate></item>
 <item><title>
 Character Feature: Cha'da (AKA Eden Nisim)
 </title><description><![CDATA[
@@ -2342,165 +2537,4 @@ On the Nature of Magic
 <guid>https://owentyme.us/blog/./on-the-nature-of-magic.html</guid>
 <dc:creator>Owen Tyme</dc:creator>
 <pubDate>Wed, 10 Jul 2024 14:28:20 -0500</pubDate></item>
-<item><title>
-Work in Progress #2: Troll War #2 (July 1-5)
-</title><description><![CDATA[
-
-<p>This is part two of my series on my work in progress novel, <a href="../books.html#troll-war">Troll War</a>, which centers around a kingdom of trolls going to war with a kingdom of dwarves, all because a pair of corrupt nobles from a third kingdom were bored and curious to see which race would come out on top.</p>
-
-<p>You can read <a href="../books.html#troll-war">a short description of Troll War</a> to learn more or you can read <a href="https://mastodon.social/@OwenTyme/112672253855096568">short summaries of each day's writing, on Mastodon</a>.  This series can be read <a href="tag_rumors-of-war.html">via this link</a>, though it will be in reverse chronological order, from newest to oldest.</p>
-
-<p>Writing was fun this week, with a fair amount of action as the fighting between the dwarves and trolls heated up, followed by the start of a little romantic subplot that will be rather important to later chapters.  I also planted some important seeds for later plot points.</p>
-
-<h2>Chapter 5: The Bleeding Mother</h2>
-
-<p>I renamed Chapter 5 based on what I wrote on Monday (July 1).</p>
-
-<p>Anji, the troll Weapon Master, and Nepita's sister, Illa, a powerful witch, lurk in the forest on the other side of Razorpoint Ridge, while Illa practices an ancient troll song, titled <em>Flowing Stone</em>.  The song is extremely complex, but holds the power to wake the earth itself.  She completes the work and masters the difficult pronunciation.</p>
-
-<p>As dawn comes, the trolls prepare to attack and Illa starts the magical song.  It normally requires a soprano, an alto and a tenor, all working together, taking turns to sing the song, but Illa is able to sing all of it, except the deepest notes at the very beginning.  Anji, as a natural tenor, helps her sing that portion and then leads the army to attack Razorpoint Refuge.</p>
-
-<p>The song describes the earth as a pregnant mother, giving birth to her child (ash and smoke), effectively comparing lava to blood.  The song-based spell causes lava to pour into the deep coal mines of the dwarf fort, effectively filling it up from the inside, while frightened dwarves flee, most of them killed by the catastrophe!</p>
-
-<p>King Windmaker, of the dwarves, is horrified to see his fears come to fruition as the seemingly impregnable fortress falls to magic, just as a screaming army of trolls comes around the ridge to attack!</p>
-
-<p>At the same time, Illa passes out, because she misjudged the energy requirements of the spell, having gone far beyond her personal limits.  Fortunately, that means that instead of turning the whole mountain into an active volcano, it stops at just producing a large pool of lava spilling out of the fort's front gates.</p>
-
-<h2>Chapter 6: Withermine</h2>
-
-<p>Chapter 7 was actually written first, because inspiration struck me regarding the conclusion of the conflict at Razorpoint Refuge, but I often switch back and forth to different locations in my writing and I'll try to keep things simple on this blog by going in story order, here.</p>
-
-<p>Most of the chapter follows Captain Shatterhand, the female dwarf officer in charge of the war-riders headed for Withermine.</p>
-
-<p>Her unit is lost in fog that's settled in around the remote mining village and she's convinced they've been going in circles for hours on end.</p>
-
-<p>There's a brief internal monologue about the swamp, which is filled with mythril deposits.  This section is designed to aid the reader's understanding of dwarven enchantment techniques and why mythril is so important to them.</p>
-
-<p>Mythril acts as a natural magical purifier/concentrator, taking in the raw magic of the air, only to release it in a more pure and reactive form.  Magic effectively pools around it, building up over time until someone comes near, at which point the magic responds to their thoughts, producing randomized, chaotic spell-like bursts the dwarves call 'mythril surges'.</p>
-
-<p>Dwarven enchantments normally consist of a small amount of mythril (an ounce or two) to serve as a power source for the magic, combined with dwarven runes, which act like an analog to an electrical circuit, transforming the raw magic the mythril produces into a more controlled, useful form.  Dwarven runes are effectively another form of natural magic, but they require the skill of an exceptional smith to do anything on their own.  An exceptional smith working with mythril can produce very powerful results, that var in direct proportion to how much mythril is used.</p>
-
-<p>Shatterhand wishes their compasses would work, but one of the natural side effects of uncontrolled mythril makes compass needles spin.</p>
-
-<p>She stops at some trees to determine north from the moss on the trunks, but there's moss on all sides.  However, she does see a wither-like blight in the leaves of the tree, marking their proximity to Withermine, because the trees are sick with toxic mythril poisoning.</p>
-
-<p>One of her men, who has an excellent sense of direction, volunteers his opinion they should take a sharp turn left.  For lack of any better idea, she puts the dwarf in the lead.</p>
-
-<p>Meanwhile, the trolls waiting to ambush Withermine have been camping on a large island near their target.  Their leader, Aketa, hears the dwarven war-riders approaching, because the legs of them splash rather loudly.</p>
-
-<p>She wakes her sister, Kina, ordering the woman to mask their presence with an illusion, while the trolls all press themselves into the rocks of the island.  Aketa takes position on a high rock, to give herself a good view, while Kina sings, causing them to visually meld into the rocks, masked with mental trickery.  Her singing comes to resemble a natural wind blowing through rocks, but since there's no wind, it sounds eerie and ghost-like.</p>
-
-<p>Hearing the song and mistaking it for something caused by a mythril surge, Shatterhand advises her men to keep their thoughts focused on the mundane, to avoid danger, because the form of a surge is only limited by the imagination.</p>
-
-<p>Shatterhand spots the island and cautiously marches her men and their war-riders onto it, finding some half-rotted bedding scattered about (the bedding of just the troll leaders, because most of the men have been doing without).  After a brief discussion, the dwarves conclude some adventurers likely got lost in the swamp and used the island as a temporary refuge, before dying off to the dangers of the place.</p>
-
-<p>Shatterhand orders her men to inspect their war-riders for damage, while she spends her time tying to use the island to figure out which way north is, because though the island is on her map, she still isn't sure which way to go.</p>
-
-<p>Kina turns her song into a lullaby, putting the dwarves to sleep, while Aketa stalks Shatterhand.  There's a brief fight in which Shatterhand refuses to back down and Aketa cuts the dwarf's throat.  While Shatterhand struggles to breathe in her dying moments, Aketa telepathically enters her mind, stealing knowledge of both Shatterhand's orders and how to drive a war-rider.</p>
-
-<p>Withermine is wiped out with ease (off-screen, so to speak, since it doesn't really matter) and the trolls decide to use the war-riders to fool King Windmaker into trusting them. They head off to Flintbrook, where the dwarves are planning to rendezvous before heading into troll lands, to assault the Utros palace.</p>
-
-<h2>Chapter 7: Hired Assassin</h2>
-
-<p>The battle at Razorpoint Ridge is short, but intense.</p>
-
-<p>King Windmaker initially struggles against the trolls, because there's thousands of them that swarm him en-masse, trying to climb all over his war-rider!  He spins in place, flinging them off, just in time for Anji to land on top of his war machine.  He tries to swat her with his war-rider's ax, but she's too fast, using her sickles to hook the sides of the rear hatch.</p>
-
-<p>She uses her weapons to cut through the latch holding it closed and then flips her way onto the hatch like a ninja!  At the same time, King Windmaker snatches an ax off the wall of the cockpit and whirls around, aiming to cut her down!  Her wickedly-sharp sickles cut the head of the ax free, followed by cutting the handle from the shaft, leaving the king effectively unarmed.</p>
-
-<p>She places her weapons to his throat and the king feigns surrender.  He knows what she doesn't, however: her sickles are dwarf made and in fact, his very own creations, which he gave to the troll king as a gesture of peace.  Dwarf made enchanted weapons normally will not harm the smith that made them, nor will they harm the king of the dwarves, so he punches Anji as hard as he can, shattering her nose!</p>
-
-<p>She reacts by trying to cut his throat, but the sickles lose their sharpness, unable to do more than merely bruise him!  Anji starts to fall back, but the King refuses to let her escape, grabbing both of her wrists, using them to haul her in close, for a devastating head-butt that cracks her skull!</p>
-
-<p>The King thinks Anji is a hired assassin, based on her attire and figure.  She wears blood-red clothing and armor, which marks her as a member of the <em>Sanguine Sisterhood</em>, a notorious band of supposedly human women that work as expensive hired killers.  However, he doesn't know the full truth; the <em>Sanguine Sisterhood</em> have always been troll women.</p>
-
-<p>He decides to offer her payment, putting a bounty on the head of the troll king, Shengis, literally offering both a hefty sum of gold and enchanted weaponry to the assassin that produces the troll's head.</p>
-
-<p>Anji agrees and King Windmaker tosses her broken body to the ground, with little expectation she'll survive her wounds, because he thinks she's human.</p>
-
-<p>The battle is finished, with the troll army wiped out, but the victory is pyrrhic, since no one from the fort survived the melee.</p>
-
-<p>Anji drags herself home, discovering along the way that the dwarves have found and captured Illa, though they actually think she was a prisoner of the trolls that were guarding her in her sleep.</p>
-
-<h2>Chapter 8: False Riders</h2>
-
-<p>King Windmaker and his men lurk in the ruins of Flinrbrook, horrified by the message the trolls left him, spelled out with dwarf corpses: <em>THE PRICE IS TEN-FOLD!</em></p>
-
-<p>He knows the troll policy of responding with ten-fold force to any offense and even has no issue with it, knowing the enemies of Utros to the west, consisting of goblins and dark fairies, need a harsh hand, just to bring them to the negotiating table.</p>
-
-<p>However, he doesn't understand the message, because he knows of no offense deserving of troll retribution, convinced the war began as a misunderstanding, though he knows it's already too late to stop the fighting.</p>
-
-<p>As he's puzzled about the message, Aketa's troll-driven war-riders arrive, marching as if on parade in a city, rather than a more natural marching gait useful for crossing the wilderness, which makes no sense.  In addition, their leader is singing a dwarven song of triumph, leaving him wondering if they're drunk.</p>
-
-<p>Putting the pieces together in his mind, he screams for his men to plug their ears and attack, leading to a desperate melee between war machines!</p>
-
-<p>King Windomaker seeks the enemy leader in the midst of the brawl, eventually spotting the silver decorations of Captain Shatterhand's personal war-rider.</p>
-
-<p>He shield-rushes her from behind, damaging her escape hatch and they both go down.  Getting a war-rider on its feet after a fall isn't easy and King Windmaker is the only one to have mastered performing an acrobatic stand in one, getting his war machine back on its feet nearly instantly, while Aketa is forced to move more slowly.</p>
-
-<p>Halfway through raising her war-rider's torso, the king's ax smashes through her window, while she dodges, inside her cockpit!  The ax smashes through the cockpit and into the steam chamber, below, releasing super-heated steam that burns every inch of Aketa's body!</p>
-
-<p>Knowing she'll never heal properly, due to the weakness of trolls to being burned, she goes all-in on a suicide attack, using the King's backward yank of his ax to free it as the means to launch herself at his cockpit window, aiming her sword for his eye!</p>
-
-<p>She smashes through the glass, but her weapon betrays her, pulling to one side of its own accord!  She lands on the King, who head-butts her, cracking her skull, before he grabs her sword and beheads her!</p>
-
-<p>He kicks her body out the window and then sets his war-rider to slowly turn in place, holding Aketa's head up for all to see as he shows the trolls he's taken their leader's head and demands their surrender.</p>
-
-<p>They back down and the battle is won.</p>
-
-<p>Kina watches the battle via a telescope while she hides with the remainder of the troll forces (there weren't enough war-riders for all of them).</p>
-
-<p>While the dwarves are distracted with their prisoners, Kina retrieves her sister and holds the head in place, so Aketa doesn't actually die.  In wasn't sisterly love that motivated her, but rather duty to the Queen.</p>
-
-<p>Aketa is carried back by the men and Kina drives their only remaining war-rider back to the Utros mountains, so they can report on the unexpected capabilities of the dwarves and give her the captured war machine, for study.</p>
-
-<h2>Chapter 9: The Icy Maiden</h2>
-
-<p>Illa wakes in a dwarf hospital in the palace of their capital city, Wind Hammer.  Kadrek is in the bed beside her own and is totally infatuated with her, because she's very attractive.</p>
-
-<p>Knowing she's too weak to get home on her own, she plays the femme fatale and leans into his attraction, pretending to be the daughter of a human gunsmith, who was killed by the trolls.  She hopes to recover her strength and then magically brainwash Kadrek, that he might carry supplies for her on the way home, ultimately planning to give him to Nepita as a hostage.</p>
-
-<p>The dwarf reminds Illa of her first love, who was murdered by Nepita for being a rather out-spoken male (at great risk to his life, he pursued Illa, rather than the other way around).</p>
-
-<p>Over the course of days, they speak at length, the friendship between them grows and Illa starts to lose herself to the role she's taken on, because Kadrek really has grown to love her and she's begun to feel the same.</p>
-
-<p>Kadrek has the healers take them to the surface in wheelchairs and there, he gets on his feet.  It's obvious that standing on his injured feet is like walking on daggers for him.  He flexes his muscles in the sun and Illa's heart beats faster!</p>
-
-<p>Illa mentally reminds herself in a somewhat shaky fashion, <em>He’s a means to an end.  He’s a means to an end!  My gosh, he’s an</em> attractive <em>means to an end!</em></p>
-
-<p>Seeing her expression, he winks and flexes his bicep, showing off.  She finds her will weakening, but dredges up some pride in her trollish heritage to fight back with, reminding herself that she's of royal blood, sister to the Queen and the greatest witch Utros has seen in five-hundred years.</p>
-
-<p>Kadrek asks her if she wants to dance and Illa is overcome by the romance of it: he's in serious pain, but still wants to dance with her!</p>
-
-<p>In one final attempt to cling to her cold, icy heart, she (truthfully) tells him she's too weak to stand.</p>
-
-<p>He offers to support both their weight and the last of the ice in Illa's heart melts, allowing a metaphorical avalanche of released ice and water to bury her trollish pride, once and for all, falling head over heels for the charming dwarf.</p>
-
-<p>She agrees and Kadrek picks her up, supporting her weight, despite his injured feet, seemingly oblivious to the pain, because he's holding the woman he loves as he slowly bobs from foot to foot.</p>
-
-<p>Illa makes up her mind to tell him the truth, but knows the time isn't right.  She fears it's too soon and she'll be killed for who she really is.  She leans into her feelings and pushes their relationship forward by kissing Kadrek as passionately as she knows how, because she needs him to fall head over heels for her.</p>
-
-<h2>Chapter 10: Exile</h2>
-
-<p>Finally well enough to leave the hospital, Illa is put in a cottage on the palace grounds set aside for elf visitors.  The interior is decorated with wood furniture carved with leafy patterns.  The bed has green sheets and pillows.  Light streams in through a colorful, stained-glass window.</p>
-
-<p>She sits on the edge of the bed, wearing a blue, silk dress the same shade as her eyes, which was originally made for a dwarf, though it was expertly cut down to fit her very slender frame by the palace seamstress.  Her legs are a little long for it, leaving it hanging at mid-calf height, but that's just fine, because that's the current fashion among human women.  Her hair is tied back with a matching scarf.</p>
-
-<p>Kadrek arrives, dressed in a red tunic and matching felt hat, with a shiny, mythril belt buckle that emanates heavy magic.</p>
-
-<p>The plan is for the two of them to spend a day walking around town, because they're both finally well enough for it.</p>
-
-<p>That's as far as I got for the week, but I know how the chapter will end. The King has returned to the city with troll prisoners, who will recognize Illa and try to get her to help them, blowing her cover.</p>
-
-<p>Kadrek will defend Illa with his life, taking up arms against the King's men.  The two of them will be captured and hauled before the King, who will hear their stories.  Illa will finally come clean and Kadrek will continue to stand with her.</p>
-
-<p>Unable to bring himself to kill his son's beloved, the King will instead disown Kadrek, marry them on the spot, then exile them from the kingdom, likely giving Kadrek the parting gift of a fat purse filled with gold, that they might make their way to Oswil, where they're sure to be accepted.</p>
-
-<p>Tags: <a href='tag_writing.html'>writing</a>, <a href='tag_work-in-progress.html'>work-in-progress</a>, <a href='tag_rumors-of-war.html'>rumors-of-war</a></p>
-
-<!-- text end -->
-]]></description><link>https://owentyme.us/blog/work-in-progress-2-troll-war-2-july-1-5.html</link>
-<guid>https://owentyme.us/blog/./work-in-progress-2-troll-war-2-july-1-5.html</guid>
-<dc:creator>Owen Tyme</dc:creator>
-<pubDate>Sat, 06 Jul 2024 10:30:08 -0500</pubDate></item>
 </channel></rss>
