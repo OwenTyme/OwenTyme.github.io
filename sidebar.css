@@ -119,6 +119,7 @@ img {
 button{
     border-radius: .333em;
     box-shadow: 2px 5px 5px 0px rgba(0,0,0,0.5);
+    margin-bottom: 7px;
 }
 
 .sidenav {
@@ -138,6 +139,11 @@ button{
 .sidenav a:hover {
   color: var(--moredark);
 }
+
+.sidenav button {
+      margin-bottom: 0px;
+}
+
 
 .sidenav img {
     border-radius: 0;
