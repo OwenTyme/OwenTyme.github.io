@@ -30,6 +30,7 @@ https://owentyme.us/blog/new-release-demon-for-president.html
 https://owentyme.us/blog/new-stores-for-my-books.html
 https://owentyme.us/blog/on-sale-now.html
 https://owentyme.us/blog/on-the-nature-of-magic.html
+https://owentyme.us/blog/open-source-ai-tts-audiobooks.html
 https://owentyme.us/blog/shame-on-me-i-guess.html
 https://owentyme.us/blog/shame-on-me-i-guess-part-ii.html
 https://owentyme.us/blog/shame-on-me-i-guess-part-iii.html
@@ -41,6 +42,8 @@ https://owentyme.us/blog/starwitch-is-on-royal-road-and-wattpad.html
 https://owentyme.us/blog/stickers-of-the-hunter.html
 https://owentyme.us/blog/tag_about.html
 https://owentyme.us/blog/tag_ashen-blades.html
+https://owentyme.us/blog/tag_audiobooks.html
+https://owentyme.us/blog/tag_audio.html
 https://owentyme.us/blog/tag_blog.html
 https://owentyme.us/blog/tag_character-feature.html
 https://owentyme.us/blog/tag_html.html
