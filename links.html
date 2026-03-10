@@ -8,7 +8,7 @@
  <meta property="og:type" content="website" />
  <meta property="og:url" content="https://owentyme.us/links.html" />
  <meta property="og:image" content="https://owentyme.us/images/logo.300x300.png" />
- <meta property="og:description" content="You’ll find links to other websites on this page, including those of people I work with, things I like and tool I use." />
+ <meta property="og:description" content="You’ll find links to other websites on this page, including those of people I work with, things I like and tools I use." />
  <link rel="stylesheet" href="neat.css">
  <link rel="stylesheet" href="sidebar.css">
  <link rel="canonical" href="https://owentyme.us/links.html"/>
@@ -98,7 +98,21 @@ Books</button></a></p>
 </header>
 <h1 id="links">Links</h1>
 <p>You’ll find links to other websites on this page, including those of
-people I work with, things I like and tool I use.</p>
+people I work with, things I like and tools I use.</p>
+<h2 id="audio">Audio</h2>
+<p><a href="https://www.audacityteam.org/">Audacity</a> - Audio editor
+and multi-tool.</p>
+<p><a href="https://librivox.org/">LibriVox</a> - Public domain
+audiobooks read by volunteers. This is a very handy resource for audio
+samples to use for zero-shot TTS engines. I regularly use this for my <a
+href="https://github.com/OwenTyme/voice-zero">Voice-Zero</a> project
+(see below, for more information).</p>
+<p><a href="https://github.com/resemble-ai/resemble-enhance">Resemble
+Enhance</a> - AI noise remover for voice samples.</p>
+<p><a href="https://github.com/xiph/rnnoise">RNNoise</a> - AI noise
+remover for voice samples. This one works in real-time.</p>
+<p><a href="https://en.wikipedia.org/wiki/SoX">SoX</a> - Command-line
+audio multi-tool.</p>
 <h2 id="music">Music</h2>
 <p><a href="https://dogwood.bandcamp.com/">Dogwood</a> - Absolutely
 amazing singer. She has an incredible vocal range and is also a trained
@@ -122,6 +136,34 @@ favorite music to write to.</p>
 The platform used for publishing my novels. If you use this link to sign
 up, you’ll get me a small bonus from Draft2Digital for each of your
 sales for the first two years.</p>
+<h2 id="text-to-speech-and-voice-conversion">Text to Speech and Voice
+Conversion</h2>
+<p><a href="https://github.com/resemble-ai/chatterbox">Chatterbox</a> -
+AI zero-shot TTS engine, but also includes a voice converter. Chatterbox
+can optionally add emotion to the samples it produces. It’s really slow
+without a GPU.</p>
+<p><a href="https://github.com/frothywater/kanade-tokenizer">Kanade
+Tokenizer</a> - Amazing piece of software, which can function as a voice
+converter or voice resynthesizer, which can remove all noise from a
+voice sample, even reverb.</p>
+<p><a href="https://github.com/hexgrad/kokoro">Kokoro</a> - AI TTS
+engine that speaks well, but is limited to a small selection of voices.
+Unfortunately, it’s very rigid in its manner of speaking, and when it
+makes a mistake, generating fresh audio samples makes no difference,
+because it will always make the same mistakes.</p>
+<p><a href="https://github.com/nazdridoy/kokoro-tts">Kokoro TTS</a> -
+Fork of Kokoro that’s geared toward ease of use from the command-line.
+This is the version of Kokoro I actually use.</p>
+<p><a href="https://github.com/rhasspy/piper">Piper</a> AI TTS engine. I
+use this to read my writing back to me, during editing, because it’s a
+big help to hear the text <em>exactly</em> as written. I catch a lot
+more typos that way.</p>
+<p><a href="https://github.com/kyutai-labs/pocket-tts">Pocket TTS</a> -
+AI zero-shot TTS engine. This is much faster than Chatterbox and runs
+well on CPU. Pocket speaks well.</p>
+<p><a href="https://github.com/OwenTyme/voice-zero">Voice-Zero</a> - One
+of my side projects, to put together a repository of voice samples
+suitable for use with zero-shot TTS engines.</p>
 <footer id="footer">
 &copy;
 <a href="https://owentyme.us">Owen Tyme</a> &mdash;
