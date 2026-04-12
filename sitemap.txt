@@ -53,10 +53,12 @@ https://owentyme.us/blog/tag_html.html
 https://owentyme.us/blog/tag_interviews.html
 https://owentyme.us/blog/tag_jigsaw-city.html
 https://owentyme.us/blog/tag_mastodon.html
+https://owentyme.us/blog/tag_music.html
 https://owentyme.us/blog/tag_news.html
 https://owentyme.us/blog/tag_novel.html
 https://owentyme.us/blog/tag_prejudice.html
 https://owentyme.us/blog/tag_publishing.html
+https://owentyme.us/blog/tag_roaring-rowley.html
 https://owentyme.us/blog/tag_rumors-of-war.html
 https://owentyme.us/blog/tag_sale.html
 https://owentyme.us/blog/tag_shell-script.html
@@ -74,6 +76,7 @@ https://owentyme.us/blog/the-smashwords-sale-has-begun.html
 https://owentyme.us/blog/the-third-wish-in-ebook-and-print.html
 https://owentyme.us/blog/troll-song-author-copies.html
 https://owentyme.us/blog/troll-song-is-released.html
+https://owentyme.us/blog/updated-starwitch-audiobook.html
 https://owentyme.us/blog/work-in-progress-10-she-seeks-peace-2-september-16-20.html
 https://owentyme.us/blog/work-in-progress-11-she-seeks-peace-3-september-23-26.html
 https://owentyme.us/blog/work-in-progress-12-she-seeks-peace-4-september-30-october-4.html
