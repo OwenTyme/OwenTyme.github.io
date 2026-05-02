@@ -40,6 +40,7 @@ https://owentyme.us/blog/rowleys-roar-5.html
 https://owentyme.us/blog/rowleys-roar-6.html
 https://owentyme.us/blog/rowleys-roar-7.html
 https://owentyme.us/blog/rowleys-roar-8.html
+https://owentyme.us/blog/rowleys-roar-9.html
 https://owentyme.us/blog/shame-on-me-i-guess.html
 https://owentyme.us/blog/shame-on-me-i-guess-part-ii.html
 https://owentyme.us/blog/shame-on-me-i-guess-part-iii.html
@@ -55,11 +56,14 @@ https://owentyme.us/blog/tag_artificial-intelligence.html
 https://owentyme.us/blog/tag_ashen-blades.html
 https://owentyme.us/blog/tag_audiobooks.html
 https://owentyme.us/blog/tag_audio.html
+https://owentyme.us/blog/tag_beware-with-underscores-in-markdown.html
 https://owentyme.us/blog/tag_blog.html
 https://owentyme.us/blog/tag_character-feature.html
+https://owentyme.us/blog/tag_example.html
 https://owentyme.us/blog/tag_html.html
 https://owentyme.us/blog/tag_interviews.html
 https://owentyme.us/blog/tag_jigsaw-city.html
+https://owentyme.us/blog/tag_keep-this-tag-format.html
 https://owentyme.us/blog/tag_mastodon.html
 https://owentyme.us/blog/tag_music.html
 https://owentyme.us/blog/tag_news.html
@@ -74,6 +78,7 @@ https://owentyme.us/blog/tag_short-story.html
 https://owentyme.us/blog/tag_social-media.html
 https://owentyme.us/blog/tag_social-media-platform-that-shall-remain-nameless.html
 https://owentyme.us/blog/tag_starwitch.html
+https://owentyme.us/blog/tag_tags-are-optional.html
 https://owentyme.us/blog/tag_the-wizards-scion.html
 https://owentyme.us/blog/tag_websites.html
 https://owentyme.us/blog/tag_witches.html
