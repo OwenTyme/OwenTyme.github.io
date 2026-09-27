@@ -19,6 +19,7 @@ https://owentyme.us/blog/character-feature-verda-bagley.html
 https://owentyme.us/blog/coming-soon-forgotten-legends.html
 https://owentyme.us/blog/dark-moon-released.html
 https://owentyme.us/blog/demon-for-president.html
+https://owentyme.us/blog/elementalist-1.html
 https://owentyme.us/blog/emergent-consequences.html
 https://owentyme.us/blog/farewell-dear-friend-may-we-meet-again-on-a-fairer-shore.html
 https://owentyme.us/blog/forgotten-legends-available-for-pre-order.html
@@ -63,6 +64,7 @@ https://owentyme.us/blog/tag_audiobooks.html
 https://owentyme.us/blog/tag_audio.html
 https://owentyme.us/blog/tag_blog.html
 https://owentyme.us/blog/tag_character-feature.html
+https://owentyme.us/blog/tag_elementalist.html
 https://owentyme.us/blog/tag_friday-feature.html
 https://owentyme.us/blog/tag_html.html
 https://owentyme.us/blog/tag_interviews.html
@@ -161,6 +163,7 @@ https://owentyme.us/characters/book-of-newts/iris-blackwell.html
 https://owentyme.us/characters/book-of-newts/marta-blackwell.html
 https://owentyme.us/characters/index.html
 https://owentyme.us/contact.html
+https://owentyme.us/elementalist1.html
 https://owentyme.us/index.html
 https://owentyme.us/links.html
 https://owentyme.us/products.html
